@@ -1,1 +1,1 @@
-# URP_
+# CS231n / Neural Network / MNIST Dataset
