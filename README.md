@@ -23,14 +23,11 @@ https://colab.research.google.com/drive/1Qpir5rPuLeUYKTLzQkNHfxdjQ8WUKTpH?usp=sh
 7. Neural Networks Part 3: Learning and Evaluation.ipynb
 https://colab.research.google.com/drive/1t0vVztQ_gNWcLg8uFXZ_IVkdmsAfgBIy?usp=sharing
 
-8. Neural Networks Part 3: Learning and Evaluation.ipynb
-https://colab.research.google.com/drive/1t0vVztQ_gNWcLg8uFXZ_IVkdmsAfgBIy?usp=sharing
-
-9. Putting it together: Minimal Neural Network Case Study.ipynb
+8. Putting it together: Minimal Neural Network Case Study.ipynb
 https://colab.research.google.com/drive/1g48mc62aAx8IBFqGQkZJWZDfdgB0OBLG?usp=sharing
 
-10. Understanding and Visualizing CNNs
+9. Understanding and Visualizing CNNs
 https://colab.research.google.com/drive/132KCawbWfFiyJG0GPZgYnpKkTEGC5Ho5?usp=sharing
 
-11. Transfer Learning and Fine-tuning CNNs
+10. Transfer Learning and Fine-tuning CNNs
 https://colab.research.google.com/drive/1GxbO7-QwRP_n_NnsZshbkTHJ3Jv0suK2?usp=sharing
